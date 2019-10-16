@@ -1,0 +1,64 @@
+body{
+    margin: 10px;
+}
+#logo{
+    background: black;
+    height: 100px;
+    width: 30%;
+    margin-bottom: 10px;
+    float: left;
+}
+#banner{
+    background: chartreuse;
+    height: 100px;
+    width: 69%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    float: right;
+}
+#head-link{
+    background: darkblue;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 10px;
+    clear: both;
+}
+#intro{
+    background: aquamarine;
+    height: 300px;
+    width: 25%;
+    margin-bottom: 10px;
+    float: left;
+}
+#hotnews{
+    background: chartreuse;
+    height: 250px;
+    width: 25%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    float: left;
+}
+#photoslide{
+    background: brown;
+    height: 250px;
+    width: 25%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 8px;
+    float: left;
+}
+#calendar{
+    background: burlywood;
+    height: 500px;
+    width: 22%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    float: right;
+}
+#empty{
+    background: cadetblue;
+    height: 400px;
+    width: 25%;
+    float: left;
+    clear: both;
+}
